@@ -2,4 +2,4 @@ Name:Rakesh
 USN:2026LCS062
 Subject:DevOps
 
-![My Image](cdd experiment-2A.png)
+![My Image]("C:\Users\bank\Pictures\Screenshots\cdd experiment-2A.png")
